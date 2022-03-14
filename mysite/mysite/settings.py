@@ -26,7 +26,7 @@ SECRET_KEY = '%0&65ffdek7=^n9&+*@!o+%&hgg#qz*)*obhpvq4j*&n5e=z!0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['norahvii.pythonanywhere.com']
 
 
 # Application definition
