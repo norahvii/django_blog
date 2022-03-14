@@ -4,7 +4,9 @@ mkvirtualenv --python=python3.7 myblog
 pip install -U django==2.0
 
 python manage.py migrate
+
 python manage.py makemigrations blog
+
 python manage.py migrate
 
 python manage.py createsuperuser
