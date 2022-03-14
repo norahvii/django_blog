@@ -25,10 +25,12 @@ virtualenv:
 ## Static files:
 url:
 * `/static/admin`
+
 directory:
 * `/home/norahvii/.virtualenvs/myblog/lib/python3.7/site-packages/django/contrib/admin/static/admin`
 
 url:
 * `/static`
+
 directory:
 * `/home/norahvii/django_blog/mysite/blog/static`
