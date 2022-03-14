@@ -1,6 +1,6 @@
 A blog but in Django
 
-## CLI Setup
+## CLI Setup:
 * `mkvirtualenv --python=python3.7 myblog`
 * `pip install -U django==2.0`
 * `python manage.py migrate`
@@ -9,12 +9,12 @@ A blog but in Django
 * `python manage.py createsuperuser`
 * `copy wsgi file to /var/www`
 
-## Pythonanywhere Setup
+## Pythonanywhere Setup:
 source code:
 * `/home/norahvii/django_blog/mysite`
 
 working directory:
-* `/home/norahvii/
+* `/home/norahvii/`
 
 wsgi config file:
 * `/var/www/norahvii_pythonanywhere_com_wsgi.py`
@@ -22,7 +22,7 @@ wsgi config file:
 virtualenv:
 * `/home/norahvii/.virtualenvs/myblog`
 
-static files:
+## Static files:
 url:
 * `/static/admin`
 directory:
