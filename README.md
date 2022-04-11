@@ -1,4 +1,6 @@
-A blog but in Django
+A blog but in Django.
+
+Up and running here: http://norahvii.pythonanywhere.com/
 
 ## CLI Setup:
 * `mkvirtualenv --python=python3.7 myblog`
